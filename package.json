@@ -1,5 +1,5 @@
 {
-  "name": "doc_node_api",
+  "name": "doc-node-client",
   "version": "1.0.0",
   "description": "Deamon used to periodically generate volumes backup and send of this backups on a predefined persistent system (eg. NFS SWIFT, ...)",
   "license": "MIT",
