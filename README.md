@@ -1,4 +1,4 @@
-# doc-node-client
+# doc-node-api
 
 DocNodeApi - JavaScript client for doc-node
 Deamon used to periodically generate volume's backup and send of this backups on a predefined persistent system (eg. NFS, SWIFT, ...)
